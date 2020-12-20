@@ -4,7 +4,7 @@ const app = express()
 const port = 3000
 
 app.get('/', (req, res) =>  {
-    res.send('express-first: Hello World!')
+    res.send('MeHoHue´s lab06-assgn02-ExpressWarmup!')
 })
 
 //https://expressjs.com/en/starter/static-files.html
